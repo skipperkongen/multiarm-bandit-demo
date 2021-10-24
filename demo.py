@@ -13,7 +13,7 @@ def visit(choices, n=1):
 choices = np.zeros(10).astype(int)
 #sns.displot(visit(choices))
 
-def cheat(visit, rounds=300):
+def optimal(visit, rounds=300):
     """
     Optimal strategy
     """
@@ -67,4 +67,4 @@ def sim(visit, strategy, epochs=100):
 print('explore', np.mean(sim(visit, explore)))
 print('exploit', np.mean(sim(visit, exploit)))
 print('greedy', np.mean(sim(visit, greedy)))
-print('cheat', np.mean(sim(visit, cheat)))
+print('optimal', np.mean(sim(visit, optimal)))
