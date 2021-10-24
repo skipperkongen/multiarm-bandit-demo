@@ -29,6 +29,6 @@ optimal   10.052427913089582
 
 There exists [different algorithms](https://towardsdatascience.com/a-comparison-of-bandit-algorithms-24b4adfcabb) to solve the multi-arm bandit problem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e3L4VocZnnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e3L4VocZnnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here are some videos that introduce the topic. I have based this demo on the first one.
+- [Introduction](https://youtu.be/e3L4VocZnnQ)
+- [Best Multi-Armed Bandit Strategy?](https://youtu.be/FgmMK6RPU1c)
